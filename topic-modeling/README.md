@@ -43,5 +43,5 @@ BERTopic vs LDA:
 
 In cases where computing sentence embeddings can be expensive, LDA is preferred over BERTopic. The interpretation of topic plays a very major role in topic modeling. So, the evaluation of which technique is better is subjective based on the use cases.  Both techniques can be employed to create useful topic represntations.
 
-The code for the implementation of LDA and BERTopic is linked [here]
+The code for the implementation of LDA and BERTopic is linked [here](https://github.com/shikshya1/projects/blob/main/topic-modeling/reddit_topic_modeling.ipynb)
 
