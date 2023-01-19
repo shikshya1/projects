@@ -148,5 +148,16 @@ kmeans.fit(X_scaled)
 data['clusters'] = kmeans.labels_
 ```
 
+Analysis of Clusters:
+
+Cluster 0: Low income, High spending score,  young age
+Cluster 1: medium income, medium spending score, relatively young age
+Cluster 2: medium income, medium spending score and relatively higher age
+Cluster 3: medium-high income, high spending score , medium age
+Cluster 4: medium-high income, low spending score, age distributed across all groups
+Cluster 5: low income, low spending score, age distributed across all groups
+
+The major clusters to target is cluster 0 and cluster 3. Since cluster 3 has high income and spending score, we can target to converge this group more by expanding marketing strategies. Cluster 0 seems to have youngsters with low income but high spending score, promotional marketing campaign that are engaging and trendy could be effective. 
+
 
 
