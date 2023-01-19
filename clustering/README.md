@@ -2,9 +2,9 @@ Customer Segmentation
 
 customer segmentation is a process of dividing customers into different groups based on their characteristics. This can be useful for mall management in order to better understand their customers and tailor marketing strategies to different groups. One popular method for customer segmentation is k-means clustering, which is a machine learning technique that groups similar data points together. In this article, we will be discussing how to use the k-means algorithm in Python to perform customer segmentation for a mall.
 
-### The k-means Algorithm
+###  k-means Algorithm
 
-The k-means algorithm is a simple yet powerful method for grouping similar data points together. It works by dividing a dataset into k clusters, where each cluster is represented by its centroid (mean). The algorithm iteratively assigns each data point to the cluster with the nearest centroid, and then updates the centroid based on the new data point assignments.
+k-means algorithm is a simple yet powerful method for grouping similar data points together. It works by dividing a dataset into k clusters, where each cluster is represented by its centroid (mean). The algorithm iteratively assigns each data point to the cluster with the nearest centroid, and then updates the centroid based on the new data point assignments.
 
 The first step is to import the necessary libraries, including scikit-learn, numpy,  pandas, seaborn and matplotlib.
 
