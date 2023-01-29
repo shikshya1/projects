@@ -1,4 +1,4 @@
-## Extracting entities mentioned in the tweets posted by Former U.S president trump, analyze the sentiment associated with it and visualize the data using Tableau.
+## Extracting entities mentioned in the tweets posted by Former U.S president Trump, analyze the sentiment associated with it and visualize the data using Tableau.
 
 Millions of individuals, including politicians, use the well-liked social networking site Twitter to tweet about their ideas and experiences. Because of this, there is a substantial amount of text data available in the form of tweets that may be examined and used to learn important lessons. Extracting entities from the tweets, such as names of people, organizations, locations, and more, is one method of analyzing this text data. An additional method is to conduct sentiment analysis, which is the process of figuring out the sentiment or emotion communicated in a text.
 
@@ -47,6 +47,9 @@ Only organizations are extracted from the tweets. We will use Counter to create 
 | ISIS             | 151           | 
 | CNN              | 149           | 
 | Trump Tower      | 133           | 
+
+
+https://github.com/shikshya1/projects/blob/main/trump_tweets_analysis/images/frequent_words.png?raw=true
 
 
 #### Assigning sentiment to the tweets
