@@ -70,7 +70,15 @@ We will then calculate average positive and positive score for each entity ident
 
 The negative sentiments in the tweets were mostly associated with Democratic party, T-Mobile, Networks that trump classified as Clinton News Network	providing fake news like New york times, washington post. NBA also has been associated with negative tweets.
 
+![alt text][neg-entities]
+
+[neg-entities]: https://github.com/shikshya1/projects/blob/main/trump_tweets_analysis/images/negative_entities.png?raw=true
+
 The most positive entities were associated with Baseball Hall of Fame, Lincoln Memorial, Mar-a-Lago Club, Trump Int'l Hotel  etc. Along with that Fox Networks had positive sentiment in trump's tweet. 
+
+![alt text][pos-entities]
+
+[pos-entities]: https://github.com/shikshya1/projects/blob/main/trump_tweets_analysis/images/positive_entities.png
 
 The CSV with the sentiment associated with the entities can be further analyzed to gain better understanding of trump's tweet.
 
