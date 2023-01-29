@@ -12,6 +12,8 @@ The objectives of this posts are:
 
 #### Data Exploration:
 
+Data source: http://trumptwitterarchive.com/
+
 The twitter account of Donald Trump was deactivated on Jan 8,2021 to prevent the glorification of violence. But there are some tweets registered after that date are present in the dataset. So, the first step will be to examine the data. For more detail, please refer to the code. 
 
 After cleaning the date, the latest date of tweet is Jan 8,2021. The mentions of twitter handles and URLs are also removed.
