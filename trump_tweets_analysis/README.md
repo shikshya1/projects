@@ -48,8 +48,9 @@ Only organizations are extracted from the tweets. We will use Counter to create 
 | CNN              | 149           | 
 | Trump Tower      | 133           | 
 
+![alt text][freq-words]
 
-https://github.com/shikshya1/projects/blob/main/trump_tweets_analysis/images/frequent_words.png?raw=true
+[freq-words]: https://github.com/shikshya1/projects/blob/main/trump_tweets_analysis/images/frequent_words.png?raw=true
 
 
 #### Assigning sentiment to the tweets
